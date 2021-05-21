@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ljklha45tnkkequl?svg=true)](https://ci.appveyor.com/project/alexpg27/testmode)
